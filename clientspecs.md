@@ -16,3 +16,7 @@ As soon as you advance beyond the homepage, you can find information on creating
 If/when you're ready to begin integrating images into your design, you can find details about working with images in Webpack-bundled projects in the Images with Webpack lesson.
 
 You'll have three options for in-class on Thursday. One options is extending this two-day project into a three-day project (if it still requires enough work to fully fill a third day.) So, before the end of Wednesday we recommend discussing the project status with your current partner, and determining whether you'd like to continue working for a third day. You can review all of Thursday's classwork options here.
+
+
+
+### Users
